@@ -1,6 +1,6 @@
 # Nike landing page
 
-![Design preview for the Social proof section coding challenge](./src/assets/src.png)
+![Design preview for the Social proof section coding challenge](./src/assets/Preview.png)
 
 ## Welcome! 👋
 
