@@ -16,7 +16,5 @@ The users are able to:
 ### Built with
 
 - HTML5
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
+- React
+- Tailwind
