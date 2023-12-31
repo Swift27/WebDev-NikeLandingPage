@@ -1,10 +1,22 @@
-# React + Vite
+# Nike landing page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Design preview for the Social proof section coding challenge](./src/assets/src.png)
 
-![Design preview for the Social proof section coding challenge](./src/assets/Preview.png)
+## Welcome! 👋
 
-Currently, two official plugins are available:
+Thank you for checking out this nike landing page. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## The challenge
+
+The users are able to:
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive elements
+- Make a selection of which shoe they want to see
+
+### Built with
+
+- HTML5
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
